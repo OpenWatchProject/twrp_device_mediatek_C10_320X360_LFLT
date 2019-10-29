@@ -1,1 +1,1 @@
-add_lunch_combo omni_KW_C8_LFLT-eng
+add_lunch_combo omni_LD_320X320_LFLT-eng
