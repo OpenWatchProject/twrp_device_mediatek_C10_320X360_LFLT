@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/mediatek/LD_320X320_LFLT
+LOCAL_PATH := device/mediatek/C10_320X360_LFLT
 
 # Architecture
 TARGET_ARCH := arm
